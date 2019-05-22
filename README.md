@@ -1,2 +1,2 @@
 # mp6123
-Procesamiento Digital de Imagenes 
+Digital Image Processing homeworks and projects
